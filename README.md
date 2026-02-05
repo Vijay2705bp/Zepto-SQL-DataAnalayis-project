@@ -117,3 +117,37 @@ CREATE TABLE zepto (
 -Grouped products based on weight into Low, Medium, and Bulk categories
 
 -Measured total inventory weight per product category
+
+## 🛠️ How to Use This Project
+
+1. **Clone the repository** :
+   Clone this project repository from GitHub.
+
+2.**Open Zepto-SQL-DataAnalyis.sql**
+  This file contains:
+
+  -Table creation
+
+  -Data exploration
+
+  -Data cleaning
+
+  -SQL Business analysis
+
+3. **Load the dataset into pgAdmin or any other PostgreSQL client**
+
+  -Create a database and run the SQL file
+
+  -Import the dataset (convert to UTF-8 if necessary)
+
+## 👨‍💻Author - Vijaya Kumar Kanipakam
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst/data scientist roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+### Stay Updated and Join the Community
+
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/vijay-kumar-2705m/)
+
+Thank you for your support, and I look forward to connecting with you!
